@@ -6,3 +6,16 @@
 .vs/
 *.user
 *.suo
+*.userosscache
+TestResults/
+
+## Local Database Binaries & Logs
+*.mdf
+*.ldf
+*.log
+
+## OS Files
+desktop.ini
+Desktop.ini
+Thumbs.db
+.DS_Store
